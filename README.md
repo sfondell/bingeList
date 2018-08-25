@@ -1,0 +1,1 @@
+A way to review, rate, and track of which Netflix shows you have watched and would like to watch. Signed in users can add and remove shows from their “Have Watched” and “Want to Watch” lists and can view reviews and ratings that other users have left about various Netflix shows or leave ones of their own. 
